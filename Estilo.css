@@ -1,0 +1,48 @@
+# Typescript
+corpo {
+	    cor de fundo: rgb(118, 196, 248);
+	    fonte: normal 15pt  Arial;
+	}
+	
+
+	cabeçalho {
+	    cor: preto;
+	    alinhamento de texto: centro;
+	    cor de fundo: branco;
+	    raio-fronteira: 10px ;
+	    preenchimento: 15px ;
+	    largura: 500px ;
+	    margem: auto;
+	    box-shadow: 5px  5px  10px  rgba(0, 0, 0, 0, 0.384);
+	}
+	
+
+	secção {
+	    cor de fundo: branco;
+	    raio-fronteira: 10px ;
+	    preenchimento: 15px ;
+	    largura: 500px ;
+	    margem: auto;
+	    margem-superior: 6px ;
+	    box-shadow: 5px  5px  10px  rgba(0, 0, 0, 0, 0.384);
+	    alinhamento de texto: centro;
+	}
+	
+
+	botão {
+	    tamanho da fonte: grande;
+	}
+	
+
+	rodapé {
+	    cor: preto;
+	    alinhamento de texto: centro;
+	    estilo fonte: itálico;
+	    cor de fundo: branco;
+	    raio-fronteira: 10px ;
+	    preenchimento: 15px ;
+	    largura: 500px ;
+	    margem: auto;
+	    margem-superior: 6px ;
+	    box-shadow: 5px  5px  10px  rgba(0, 0, 0, 0, 0.384);
+	}
