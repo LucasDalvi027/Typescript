@@ -1,0 +1,34 @@
+# Typescript
+{
+	  "nome":  "jogo-cores",
+	  "versão":  "1.0.0",
+	  "descrição":  "
+	  "principal":  "índice.js",
+	  "dependências": {},
+	  "descondependências": {
+	    "typescript":  "^4.5.2" 
+	  },
+	  "scripts": {
+	    "teste":  "echo \"Erro: nenhum teste especificado\" &e saída 1" 
+	  },
+	  "repositório": {
+	    "tipo":  "git",
+	    "url":  "git+https://github.com/gabriel-menezessilva/jogo-cores.git" 
+	  },
+	  "autor":  "
+	  "licença":  "ISC",
+	  "bugs": {
+	    "url":  "https://github.com/gabriel-menezessilva/jogo-cores/issues" 
+	  },
+	  "homepage":  "https://github.com/gabriel-menezessilva/jogo-cores#readme" 
+	}
+	alerta("Você Ganha!");
+
+
+
+
+
+
+
+
+
